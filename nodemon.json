@@ -1,0 +1,4 @@
+{
+    "watch": ["./vite2"],
+    "exec": "vite2"
+}
